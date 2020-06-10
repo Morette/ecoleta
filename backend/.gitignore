@@ -1,3 +1,4 @@
 node_modules
 
-src/uploads/*.jpeg
+**/*.sqlite
+**/*.jpeg
