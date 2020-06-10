@@ -1,4 +1,6 @@
 node_modules
 
-**/*.sqlite
-**/*.jpeg
+uploads/*
+!uploads/.gitkeep
+
+*.sqlite
